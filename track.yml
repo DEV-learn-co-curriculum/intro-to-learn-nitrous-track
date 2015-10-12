@@ -1,0 +1,71 @@
+---
+track:
+    title: Intro to Learn - Nitrous
+    uuid: 9df0ed81-cfb4-4df8-8ffb-2a402f4aca2f
+    topics:
+    -   title: Intro to Learn (Nitrous)
+        uuid: 3cd717b1-8ac7-48bc-81c4-60f0eca072e6
+        units:
+        -   title: Content on Learn
+            uuid: 9c1b511a-c33b-4363-b95a-28193667206f
+            lessons:
+            -   title: Learning on Learn
+                uuid: e31cff4a-5975-41a6-b058-7fa121d565f9
+                contents:
+                -   title: Learning On Learn Nitrous
+                    source: https://github.com/learn-co-curriculum/learning-on-learn-nitrous
+                    uuid: 63dd94a2-a1ad-4ba1-8960-a12a9d9d9d40
+        -   title: Using a Shell
+            uuid: 04767d9e-4974-41c8-98fb-46f47bd4c638
+            lessons:
+            -   title: Intro to the Shell
+                uuid: 451faafd-1a97-437e-8cb7-016b313f0b67
+                contents:
+                -   title: Intro To The Shell Nitrous
+                    source: https://github.com/learn-co-curriculum/intro-to-the-shell-nitrous
+                    uuid: ef3d8a79-efba-4a81-b238-3af2cadefd48
+            -   title: Your Nitrous Console
+                uuid: 35ce9730-424b-47bb-bf85-2088055a3e08
+                contents:
+                -   title: First Console Nitrous
+                    source: https://github.com/learn-co-curriculum/first-console-nitrous
+                    uuid: 18148930-3b12-495c-b005-edb096c8fe63
+            -   title: Navigating with BASH
+                uuid: f8685156-ad47-4223-9fd9-790134fa343b
+                contents:
+                -   title: Bash Navigation Nitrous
+                    source: https://github.com/learn-co-curriculum/bash-navigation-nitrous
+                    uuid: f677f4c0-1901-4fc2-be89-356e1b829d3b
+        -   title: Solving Labs on Learn
+            uuid: 5a132475-e33e-4be7-857e-c19244a98f2d
+            lessons:
+            -   title: Git + GitHub + Learn
+                uuid: 9e6b7c0c-9ad1-49a4-bbb6-13a36e109599
+                contents:
+                -   title: Git Github And Learn
+                    source: https://github.com/learn-co-curriculum/git-github-and-learn
+                    uuid: 4d46cd76-b3c5-41ef-95f0-3783b4c79c40
+            -   title: Opening a Lab
+                uuid: b9096939-f8aa-4af7-8197-677e986c49a7
+                contents:
+                -   title: Opening A Lab Nitrous
+                    source: https://github.com/learn-co-curriculum/opening-a-lab-nitrous
+                    uuid: 00974c98-b37d-44f9-bba1-ac6d1e303a94
+            -   title: Solving a Lab
+                uuid: 6d4b0a41-7273-4004-aa93-a67006ef4ec8
+                contents:
+                -   title: Solving A Lab Nitrous
+                    source: https://github.com/learn-co-curriculum/solving-a-lab-nitrous
+                    uuid: 301f893a-9237-458f-ae4c-4153c6f848dc
+            -   title: First Lab
+                uuid: 8fc28bf0-3a5d-4862-ab57-7ea0d802a234
+                contents:
+                -   title: First Lab Ruby Learn Cli Nitrous
+                    source: https://github.com/learn-co-curriculum/first-lab-ruby-learn-cli-nitrous
+                    uuid: 9ab29342-60f4-4027-a15b-6ceab4940414
+            -   title: Submitting a Lab
+                uuid: 60491958-531e-4302-a895-b18523c2b14a
+                contents:
+                -   title: Submitting A Lab Nitrous
+                    source: https://github.com/learn-co-curriculum/submitting-a-lab-nitrous
+                    uuid: 0c3e92fd-69aa-446b-9211-31bd48b4cc15
